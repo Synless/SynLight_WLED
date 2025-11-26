@@ -1,5 +1,5 @@
 # SynLight_WLED
-SynLight + WLED on a single board
+[SynLight](https://github.com/Synless/SynLight) +  [WLED](https://kno.wled.ge/) on a single board
 
 <img width="3319" height="2004" alt="SynLight + WLED - Main" src="https://github.com/user-attachments/assets/12ea963b-bae9-4417-9001-8f00dd4663cf" />
 <img width="684" height="244" alt="SynLight + WLED - Sequence" src="https://github.com/user-attachments/assets/f406de09-9510-40a2-bd03-632f83a114ec" />
